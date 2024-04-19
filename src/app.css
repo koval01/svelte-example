@@ -1,0 +1,17 @@
+@import url(font.css);
+
+html {
+    line-height: 1.15;
+    tab-size: 4;
+}
+
+body {
+    text-rendering: optimizeSpeed;
+    font-family: Inter, sans-serif;
+}
+
+/* other your global styles */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
