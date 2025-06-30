@@ -18,7 +18,7 @@
     "vite": "^5.3.1"
   },
   "dependencies": {
-    "cssnano": "^7.0.6",
+    "cssnano": "^7.0.7",
     "dotenv": "^16.4.4",
     "sass": "^1.78.0",
     "svelte-routing": "^2.13.0"
